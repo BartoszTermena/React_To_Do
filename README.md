@@ -15,6 +15,6 @@ npm install
 
 npm install node
 
-npm run start
+npm start
 ```
 
